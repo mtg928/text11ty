@@ -1,6 +1,6 @@
 {
   "title": "STEM Technical Website",
-  "url": "https://www.topfieldconsultancy.co.uk/test//stem/",
+  "url": "https://www.topfieldconsultancy.co.uk/test/stem/",
   "googlesitevertification" : "WH5yK5pEky5qND2FOW3_hvm3VlPkjRtV731y81BcsTc",
   "language": "en",
   "robots": "index, follow",
@@ -9,7 +9,7 @@
     "subtitle": "Pembuatan website dengan eleventy static generator modern dengan SEO didalamnya",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://www.topfieldconsultancy.co.uk/test//stem/"
+    "id": "https://www.topfieldconsultancy.co.uk/test/stem/"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
