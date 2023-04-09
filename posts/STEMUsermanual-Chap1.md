@@ -40,9 +40,9 @@ STEM software integrates 8 tools to suit the needs of the engineering project an
 Each calculator can be used separately or in various combinations.
 
   
-## 1.2	Pre-requisites for this manual
+## 1.2	Pre-requisites for the STEM software
 
-The hardware and knowledge-based requirements for STEM users are detailed below. 
+The hardware and knowledge-based requirements for STEM software users are detailed below. 
 
 
 The minimum requirements for using the STEM software.
@@ -63,7 +63,7 @@ To use the STEM, it is assumed that you have had experience in the use of safety
 
 The STEM login screen with the empty fields for entering the username and password is shown in Figure
 
-[![alt text]("/img/STEM_Login_Screen.jpg")]("STEM Login Screen")
+[![alt text]("/img/STEM_Login_Screen.png")]("STEM Login Screen")
 
 
 To log in to the STEM software, the user needs to enter a username and password.
