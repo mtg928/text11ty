@@ -26,6 +26,7 @@ The STEM software uses the following third Party Libraries:
   * JFreeChart -  https://www.jfree.org/jfreechart/
 
   ## 1.1	What does STEMS DO?
+
 STEM software integrates 8 tools to suit the needs of the engineering project and save you time. Our following Software Apps will help you model safety and reliability calculations efficiently:
  * Calculator management module (CMM)
  * Event Tree Analysis (ETA) module
@@ -39,7 +40,7 @@ STEM software integrates 8 tools to suit the needs of the engineering project an
 Each calculator can be used separately or in various combinations.
 
   
-### 1.2	Pre-requisites for this manual
+## 1.2	Pre-requisites for this manual
 
 The hardware and knowledge-based requirements for STEM users are detailed below. 
 
@@ -58,7 +59,7 @@ Knowledge base requirements.
 To use the STEM, it is assumed that you have had experience in the use of safety and reliability tools or have successfully attended the STEM level 1 course. If not, it is recommended that you undertake the Introduction to STEM level 1 course as a minimum.
 
 
-### 1.3	STEM Login
+## 1.3	STEM Login
 
 The STEM login screen with the empty fields for entering the username and password is shown in Figure
 
