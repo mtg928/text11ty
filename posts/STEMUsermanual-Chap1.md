@@ -35,7 +35,7 @@ STEM software integrates 8 tools to suit the needs of the engineering project an
  * Failure Mode Effects Criticality Analysis (FMECA) 
  * Safety Integrity Level (SIL) module
  * Reliability Block diagram (RBD) module
- * Common cause failure (CCF) Module
+ * Common cause failure (CCF) module
 
 Each calculator can be used separately or in various combinations.
 
@@ -54,9 +54,9 @@ Further system details can be found in section 14.2.
 Knowledge base requirements.
 
 
-• Tip
+|• Tip| 
 
-To use the STEM, it is assumed that you have had experience in the use of safety and reliability tools or have successfully attended the STEM level 1 course. If not, it is recommended that you undertake the Introduction to STEM level 1 course as a minimum.
+| To use the STEM, it is assumed that you have had experience in the use of safety and reliability tools or have successfully attended the STEM level 1 course. If not, it is recommended that you undertake the Introduction to STEM level 1 course as a minimum.| 
 
 
 ## 1.3	STEM Login
@@ -70,4 +70,5 @@ To log in to the STEM software, the user needs to enter a username and password.
 
 
 
-|Tip: Make sure you have the correct username and password details |
+|• Tip| 
+| Make sure you have the correct username and password details |
