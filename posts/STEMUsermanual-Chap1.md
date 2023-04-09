@@ -63,7 +63,7 @@ To use the STEM, it is assumed that you have had experience in the use of safety
 
 The STEM login screen with the empty fields for entering the username and password is shown in Figure
 
-[![alt text]("/img/STEM_Login_Screen.png")]("STEM Login Screen")
+[![alt text](/img/STEM_Login_Screen.png)]("Check")
 
 
 To log in to the STEM software, the user needs to enter a username and password.
