@@ -14,6 +14,7 @@ layout: layouts/post.njk
 
 
 # 2	User Interface
+
 The STEM interface has been designed to provide the designer with a flexible guide to perform safety & reliability engineering calculations to enter, modify and view data, and to generate results in the STEM User interface. 
 
 This section describes the menus, toolbox and toolbar functions that you may apply when preparing engineering calculations. The online help provides instructions for specific tasks to support you.
@@ -21,7 +22,7 @@ The STEM interface page will appear when you start the STEM software:
 
 _Figure 2: STEM User Interface_
 
-[![alt text]((/img/STEM_Login_Screen.jpg)]("STEM User Interface")
+[![alt text]((/img/STEM_Login_Screen.png)]("STEM User Interface")
 
 
 The icons associated with the individual Apps and functions in the toolbar shown in the figure are described further in the sections below. 
@@ -31,9 +32,11 @@ The icons associated with the individual Apps and functions in the toolbar shown
 You can re-size the view by clicking the maximise icon in the top right-hand corner of the screen or by dragging the edges of the frame.
 
 ## 2.1	Title Bar
+
 Title Bar contains general information about the software name and version. The right side of the title bar contains the resize icons to minimise, maximise the screen view or to close the software.
 
 ## 2.2	Menu Bar
+
 The menu bar allows access to all the STEM features via the main menu and sub-menus. The menu bar contains commands for the main areas of the software’s functionality. A list of the menu options and shortcuts are shown below.
 
 _Figure 3: STEM Menu Bar_
@@ -83,6 +86,7 @@ center text
 
 
 ## 2.3	Side Menu Toolbox
+
 The side menu toolbox contains a set of icons which give short-cut access to some of the calculation modules without the need to navigate through a series of menus and/or sub-menus.
 
 
@@ -99,6 +103,7 @@ The side menu toolbox contains a set of icons which give short-cut access to som
 |Notification||Provides the current notifications to the user|
 
 ## 2.4	Horizontal Toolbar
+
 The horizontal toolbar contains short-cut access to utility options.
 
 _Table 4: STEM Horizontal Toolbar_
@@ -119,6 +124,7 @@ HOLD Table4
 
 
 ## 2.5	Status Bar
+
 The status bar displays the current status of the calculation models. The status is displayed in two areas on the User interface:
 * Region at the top of the interface displays the current module status. Once the calculation has been completed the status will display completed.
 * Lower region on the frame displays important information on a specific calculation such as calculation errors.
