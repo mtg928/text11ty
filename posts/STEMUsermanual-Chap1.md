@@ -24,7 +24,7 @@ The STEM software uses the following third Party Libraries:
   * JasperReports - https://www.jaspersoft.com/
   * JFreeChart -  https://www.jfree.org/jfreechart/
 
-  ### 1.1	What does STEMS DO?
+  ## 1.1	What does STEMS DO?
 STEM software integrates 8 tools to suit the needs of the engineering project and save you time. Our following Software Apps will help you model safety and reliability calculations efficiently:
  * Calculator management module (CMM)
  * Event Tree Analysis (ETA) module
