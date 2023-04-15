@@ -84,7 +84,6 @@ center text
 
 
 
-
 ## 2.3	Side Menu Toolbox
 
 The side menu toolbox contains a set of icons which give short-cut access to some of the calculation modules without the need to navigate through a series of menus and/or sub-menus.

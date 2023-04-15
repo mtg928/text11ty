@@ -13,7 +13,7 @@ layout: layouts/post.njk
 ---
 
 
-![1. INTRODUCTION](posts\STEMUsermanual-Chap1.md)
+[1. INTRODUCTION](phttps://gregarious-unicorn-b8734e.netlify.app/posts/stemusermanual-chap1/)
     1.1 What is STEMS?
     1.2 What does STEMS do?
     1.3 Pre-requisites for this manual
